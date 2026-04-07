@@ -1,14 +1,14 @@
 Empezaremos separando el contiendo en distintos sistemas. Estas prácticas deberían optimizar la ventana de contexto y asegurar el cumplimiento de las ordenes.
 ___
 Índice:
-1. [Reglas Always On](Always On.md).
+1. [Reglas Always On](Always-On.md).
 	- Tiene Reglas comunes a todos los procesos
 	- Ordena a la IA a cumplir las distintas pipelines.
 	- Contiene el Kill-Swich
-2. [[Auto Documentación y Mejoras|Auto-documentación y Gestión de mejoras]].
+2. [Auto-documentación y Gestión de mejoras](Auto-Documentación-y-Mejoras.md).
 	- /skill-contrato
 	- /skill-modulo 
-3. [[Memoria Episódica]].
+3. [Memoria Episódica](Memoria-Episódica.md).
     - STATE.md
     - /actualizar-state
 ---
