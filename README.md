@@ -1,3 +1,5 @@
+Este Repositorio es una recopilación de distintos ragelas para Google AAntigravity que falicitan la optimización del contexto de los modelos, en mis pruebas a marzo de 2026, principalmente con Claude Sonnet 4.6 esta siendo efectivas.
+___
 Empezaremos separando el contiendo en distintos sistemas. Estas prácticas deberían optimizar la ventana de contexto y asegurar el cumplimiento de las ordenes.
 ___
 Índice:
