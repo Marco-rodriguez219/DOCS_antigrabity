@@ -1,7 +1,7 @@
 Empezaremos separando el contiendo en distintos sistemas. Estas prácticas deberían optimizar la ventana de contexto y asegurar el cumplimiento de las ordenes.
 ___
 Índice:
-1. [[Always On|Reglas Always On]].
+1. [Reglas Always On](Always On.md).
 	- Tiene Reglas comunes a todos los procesos
 	- Ordena a la IA a cumplir las distintas pipelines.
 	- Contiene el Kill-Swich
